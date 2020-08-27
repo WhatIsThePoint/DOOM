@@ -1,0 +1,18 @@
+#slides {
+  height: 535px;
+}
+.Products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+body {
+  background-color: #202020;
+}
+button {
+  border: 0px solid white;
+  background-color: white;
+}
+b {
+  font-size: large;
+}
